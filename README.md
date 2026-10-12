@@ -1,5 +1,5 @@
 # Hello, world!
 
-I study in Netology
+I study at Home
 
 12.10.2026
